@@ -15,7 +15,7 @@ Merhaba! Ben **Yağız**  Yazılım geliştirmeye tutkuyla bağlıyım ve özell
 ### Diller ve Teknolojiler
 
 - **Frontend:** ![HTML](images/html.svg) ![CSS](images/css.svg) ![JavaScript](images/javascript.svg) ![React](images/react.svg)
-- **Backend:** ![Python](images/python.svg) ![.NET](images/dotnet.svg) ![Node.js](images/nodejs.svg) 
+- **Backend:**  ![.NET](images/dotnet.svg) ![Node.js](images/nodejs.svg) 
 - **Araçlar ve Platformlar:** ![Visual Studio Code](images/vs-code2.svg) ![Visual Studio](images/vs-code.svg) ![ChatGPT](images/chatgpt.svg) ![ABP Framework](images/abp.svg) 
 
 ---
