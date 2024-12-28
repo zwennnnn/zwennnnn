@@ -22,11 +22,11 @@ Merhaba! Ben **Yağız**  Yazılım geliştirmeye tutkuyla bağlıyım ve özell
 
 ## Stats & Insights 📊
 
-![Profile Views](https://komarev.com/ghpvc/?username=zwennnn&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=zwennnnn&color=blue)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zwennnn&show_icons=true&theme=radical&hide=issues&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zwennnnn&show_icons=true&theme=radical&hide=issues&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zwennnn&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zwennnnn&layout=compact&theme=radical)
 
 ---
 
