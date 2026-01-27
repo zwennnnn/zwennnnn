@@ -3,8 +3,6 @@
 
 ## [CONNECT]
 [![YT](images/youtube.svg)](https://www.youtube.com/@zwenimbo)
-[![LI](images/linkedin.svg)](https://www.linkedin.com/in/yagizeke/)
-[![Mail](images/mail.svg)](mailto:yagizzeke@gmail.com)
 
 ---
 
