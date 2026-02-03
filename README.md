@@ -5,6 +5,3 @@
 [![YT](images/youtube.svg)](https://www.youtube.com/@zwenimbo)
 
 ---
-
-![Stats](https://github-readme-stats.vercel.app/api?username=zwennnnn&show_icons=true&theme=radical&hide=issues&count_private=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zwennnnn&layout=compact&theme=radical)
